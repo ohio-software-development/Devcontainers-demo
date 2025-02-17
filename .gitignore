@@ -1,0 +1,14 @@
+# Distribution
+app/dist
+
+# Node
+app/node_modules
+app/npm-debug.log
+
+cache 
+.cache
+.project
+.settings
+.gitingore
+
+.vscode/*
